@@ -1,8 +1,10 @@
 **Privacy Policy**
+
 Last Edited: 26th July 2021
+
 By using our Bot/Website, you agree that you have read and agree to this policy.
 
-This is our "Privacy Policy" which sets out the policy which governs our use of information you provide in connection with the Ascenders Discord Bot and the Website. The terms "we," "us," "our," refer to Ascenders and the team and "bot", "[website](https://ascenders.ga/)" refers to our Discord bot and website itself.
+This is our "Privacy Policy" which sets out the policy which governs our use of information you provide in connection with the Ascenders Discord Bot and the Website. The terms "we," "us," "our," refer to Ascenders and the team and "[Bot](https://discord.com/oauth2/authorize?client_id=782609831852245062&scope=bot%20applications.commands&permissions=2113924351)", "[Website](https://ascenders.ga/)" refers to our Discord bot and website itself.
 
  By using the bot, you consent to the collection, use and transfer of your information in accordance with this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our bot.
 
